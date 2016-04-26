@@ -2,14 +2,24 @@
     <channel>
         <title><![CDATA[tom klimes]]></title>
         <description><![CDATA[tom klimes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tom-klimes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 15:22:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 15:31:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tom-klimes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Small companies want to boost productivity]]></title>
+            <description><![CDATA[<p>A YouGov survey of 1,057 businesses
+employing 1-2 people questioned
+respondents on the everyday barriers that prevented them from growing. These
+included:</p>]]></description>
+            <link>https://thegrid.ai/tom-klimes/small-companies-want-to-boost-productivity/index.html</link>
+            <guid isPermaLink="false">77f3816f-92bc-4102-bd2c-6a85dd54d0e8</guid>
+            <pubDate>Tue, 26 Apr 2016 15:31:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56939916-ced2-4938-8a09-04ebbc137ba7.jpg">]]></description>
-            <link>undefined6581cb8f-fa3b-4297-8b7f-942bd7f06a8b/index.html</link>
+            <link>https://thegrid.ai/tom-klimes/6581cb8f-fa3b-4297-8b7f-942bd7f06a8b/index.html</link>
             <guid isPermaLink="false">6581cb8f-fa3b-4297-8b7f-942bd7f06a8b</guid>
             <pubDate>Tue, 26 Apr 2016 15:22:45 GMT</pubDate>
         </item>
